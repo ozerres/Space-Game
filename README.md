@@ -1,2 +1,2 @@
-# Space-Game
-2D Space Game
+# PA2-InvadersFromSpace
+Invaders From Space
